@@ -1,0 +1,9 @@
+# Project model file
+/WhitehillToolConfigurator.rbxm
+
+# Roblox Studio lock files
+/*.rbxm.lock
+/*.rbxmx.lock
+
+# Wally package files
+/Packages

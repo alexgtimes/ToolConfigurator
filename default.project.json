@@ -1,0 +1,10 @@
+{
+    "name": "WhitehillToolConfigurator",
+    "tree": {
+        "$path": "src",
+
+        "Packages": {
+            "$path": "Packages"
+        }
+    }
+}
