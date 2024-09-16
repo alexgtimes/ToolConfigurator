@@ -20,3 +20,6 @@ To build the plugin from scratch, use:
 wally install
 rojo build -o "WhitehillToolConfigurator.rbxm"
 ```
+
+## Contributing?
+We welcome contributions! If you think our plugin can be improved; feel free to open a pull request. We'll review it, provide feedback and merge the changes if we're happy with it.
