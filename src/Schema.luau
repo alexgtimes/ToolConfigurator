@@ -41,6 +41,15 @@ local data: {Schema} = {
 		Class = "BindableFunction";
 		Attributes = {};
 	};
+
+	{
+		Type = "EAS Test Tag";
+		Name = "JSM | EAS Test Tag";
+		Class = "BindableFunction";
+		Attributes = {
+			EASActive = true;
+		};
+	};
 }
 
 return data
